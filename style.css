@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+}
+
+h1:hover{
+    color: green;
+}
+
+img{
+    width: 500px;
+}
+
+p:active{
+    background: grey;
+}
+
+a:link{
+    color: orange;
+}
+
+a:visited{
+    color: gray;
+}
+
+
+
+img:hover{
+    visibility: hidden;
+}
